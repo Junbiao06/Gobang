@@ -1,5 +1,7 @@
 # 🔥五子棋对战项目🔥
 
+## 环境
+- WINDOWS
 
 ## 下载内容：
 - [Visual Studio 2022](https://visualstudio.microsoft.com/zh-hans/vs/)
